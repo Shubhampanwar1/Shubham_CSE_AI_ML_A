@@ -2,7 +2,7 @@
 
 This is our 1st group project. This project is completed by 4 group members. I'm Shubham the Group Leader of this project , Rohit Yadav , Azhar Ali and Siddiq Khan are my group members. 
 
-This project include 8 files:
+This project include 8 python files and 2 folders:
 1. Dashboard
 2. Creat_db
 3. Billing 
@@ -11,6 +11,9 @@ This project include 8 files:
 6. Catagory
 7. Products
 8. Sales 
+
+* bill(folder)
+* images(folder) - include all images that used in this project.
 
 Running this code:-
 1st we have to run the Create_db file to stablish the database of system.

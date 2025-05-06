@@ -8,10 +8,10 @@ An Inventory Management System streamlines inventory tracking by maintaining acc
 
 This is our 1st group project. This project is completed by 4 group members.
 
-Shubham
-Rohit Yadav
-Siddiq Khan 
-Azhar Ali
+* Shubham
+* Rohit Yadav
+* Siddiq Khan 
+* Azhar Ali
 
 # PROJECT FILES
 
@@ -35,3 +35,30 @@ Then we have to run the dashboard file.
 And then click on any button which you want to run.
 
 For purchasing something you have to run the billing file , and a detailed sale report will be prepared.
+
+# PROJECT DESCRIPTION
+
+Here’s the project description in a concise point format:
+- Purpose: The Inventory Management System is designed to streamline inventory tracking, ensuring accurate stock records and timely alerts.
+- Technology Used: Built with Python, Tkinter (for GUI), and SQLite3 (for database management).
+- Functionality: Supports adding, updating, and removing inventory items, ensuring efficient tracking with SQL queries.
+- User-Friendly Interface: Uses Tkinter to provide an intuitive and interactive graphical interface.
+- Challenges Addressed: Resolves issues such as lack of real-time data, inefficient inventory tracking, and complex user experience.
+- Future Enhancements: Plans to incorporate barcode scanning and machine learning for predictive analytics.
+- Project Impact: Demonstrates how technology can increase efficiency and accuracy in inventory management.
+- Learning Experience: Helped the team gain technical skills, problem-solving experience, and teamwork expertise.
+
+
+# LINKS
+
+For more detailed study of this project , you can use video link and project report also.
+
+
+
+# Technology Used :-
+
+1. Python
+2. tkinter (Python's library)
+3. SQLite (Python's library)
+4. Git
+5. Github

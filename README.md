@@ -51,9 +51,13 @@ Here’s the project description in a concise point format:
 
 # LINKS
 
-For more detailed study of this project , you can use video link and project report also.
+For more detailed study of this project , you can use video and project report links provided below.
 
-Project report : https://drive.google.com/drive/folders/1i-uguZ0iNsDOsj-P-_z5zwgahFOWs2Yo
+Project report : https://github.com/Shubhampanwar1/Shubham_CSE_AI_ML_A/blob/main/Additional%20Resources/IMS%20Complete%20Project%20Report.pdf
+
+Video : 
+
+Or you can also access the Additional Resourse folder on this repository.
 
 # Technology Used :-
 
